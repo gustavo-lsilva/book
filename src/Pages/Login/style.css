@@ -1,0 +1,35 @@
+
+.meio {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-content: space-between;
+    background: rgb(27, 27, 26);
+    width: 280px;
+    height: 340px;
+    margin-left: 30rem;
+    margin-top: 10rem;
+    
+
+}
+
+.formula01 {
+    color: white;
+    display: flex;
+    flex-flow: column;
+    margin-top: 20px;
+    margin-left: 15%;
+    width: 200px;
+    height: 150px;
+ 
+}
+
+.button {
+    border-radius: 10px;
+    height: 2rem;
+    background: blue;
+    color: white;
+    margin-top: 10px;
+
+}
+

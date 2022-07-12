@@ -1,0 +1,38 @@
+.ButtonSair {
+    border-radius: 10px;
+    height: 2rem;
+    width: 10rem;
+    background: blue;
+    color: white;
+    margin-top: 10px;
+}
+
+.Conteiner {
+  margin-top: 10px;
+  padding: 10px;
+  display: flex;
+}
+
+.list {
+    margin-top: 10px;
+    height: 430px;
+    width: 280px;
+    border: solid rgb(226, 172, 133) 1px;
+    margin-left: 10px;
+
+}
+
+li {
+    margin-top: 10px;
+}
+
+p {
+    height: 180px;
+}
+
+.capalivro {
+    height: 150px;
+    width: 100px;  
+
+
+}
